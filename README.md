@@ -19,14 +19,6 @@ This project is developed as part of my Cognifyz internship. It focuses on form 
 - Visual Studio Code
 - Live Server
 
-### 📂 Project Structure
-```text
-Cognifyz_Task4/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
 
 ### ▶️ How to Run
 1. Open the project folder in VS Code.
@@ -44,8 +36,22 @@ Cognifyz_Task4/
 ### 👩‍💻 Internship Details
 - **Organization:** Cognifyz Technologies
 - **Level:** Level 2 – Intermediate
-- **Task:** Task 4
+- **Task:** Task 3
 - **Domain:** Web Development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - **Student:** Anjali Jadhav
 - **Course:** B.Tech – Information Technology, Third Year
 
