@@ -40,21 +40,3 @@ This project is developed as part of my Cognifyz internship. It focuses on form 
 - **Domain:** Web Development
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-- **Student:** Anjali Jadhav
-- **Course:** B.Tech – Information Technology, Third Year
-
-### Note
-This is a frontend project created for learning purposes. It does not store user data or create real accounts.
-
