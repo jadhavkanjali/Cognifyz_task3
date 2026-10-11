@@ -1,4 +1,4 @@
-# Cognifyz Internship – Task 4
+# Cognifyz Internship – Task 3
 ## Complex Form Validation and Dynamic DOM Manipulation
 
 ### 📌 Project Overview
